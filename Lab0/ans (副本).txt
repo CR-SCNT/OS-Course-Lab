@@ -1,0 +1,9 @@
+2022
+KISS: Keep It Simple, Stupid.
+1 1 4 7 13 22 37 61
+2 11
+
+phase4_encrypted:isggstsvkw
+8 12 15 15 12 5 12 23 18 2
+h l  o  o  l   e l  w  r  b
+helloworlb

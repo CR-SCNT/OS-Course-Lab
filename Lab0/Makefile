@@ -6,6 +6,7 @@ include $(CURDIR)/../Scripts/lab.mk
 export LABROOT LABDIR LAB TIMEOUT
 
 bomb: student-number.txt
+	@echo "LABDIR=$(LABDIR)"
 	@echo "  GEN bomb"
 	@$(CURDIR)/scripts/generate_bomb.sh
 
